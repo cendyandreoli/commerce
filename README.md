@@ -111,8 +111,8 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## Credits
 
-@cendyandreoli
-@jessicandreoli
+[Cendy Andreoli](https://github.com/cendyandreoli)
+[Cendy Andreoli](https://github.com/jessicaandreoli)
 
 ## Versioning
 
