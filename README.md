@@ -1,4 +1,5 @@
 [![npm version](https://badge.fury.io/js/npm.svg)](https://badge.fury.io/js/npm)
+[![npm version](https://badge.fury.io/js/node.svg)](https://badge.fury.io/js/node)
 
 # And-commerce
 
