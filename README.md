@@ -25,6 +25,7 @@ v8.16.0
   - [Guia rápido](#guia-rápido)
   - [Começando](#começando)
   - [Instalação](#instalação)
+    - [Configurando o ambiente](#configurando-o-ambiente)
     - [Rodando a aplicação](#rodando-a-aplicação)
     - [Rodando os testes](#rodando-os-testes)
     - [Gerando uma versão de build](#gerando-uma-versão-de-build)
@@ -64,7 +65,18 @@ Ou caso prefira usar o Yarn:
 $ yarn add
 ```
 
+### Configurando o ambiente
+
+Para configurar o ambiente é necessário renomear o arquivo `.env.example` para `.env`
+
+Em seguida adicione suas configurações
+
+*Nota* o arquivo `.env` está no gitignore e nunca será enviado ao repositório, existindo
+apenas no seu ambiente de desenvolvimento
+
 ### Rodando a aplicação
+
+verifique se o ambiente está configurado em [Configurando a aplicação](#gerando-uma-versão-de-build)
 
 ```sh
 $ npm start
